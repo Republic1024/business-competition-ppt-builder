@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Competition PPT Builder v2"
+  short_description: "Build rigorous data-driven competition decks"
+  default_prompt: "Use $business-competition-ppt-builder to turn my analysis code and raw data into a polished business competition PPT."
