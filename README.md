@@ -1,7 +1,3 @@
-这是一个为 **Business Competition PPT Builder** 编写的开源 README 草案。它采用了专业、简洁且面向开发者的风格，重点突出了该工具“数据驱动”和“自动化”的核心特性。
-
-------
-
 # Business Competition PPT Builder (v2)
 
 **Business Competition PPT Builder** 是一个专为商业分析竞赛设计的自动化 PPT 生成框架。它能够将原始数据、Jupyter Notebook 分析脚本或 dataframe结果，直接转化为符合竞赛逻辑、高审美标准且逻辑严密的 15 页商业汇报演示文稿（.pptx）。
